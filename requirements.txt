@@ -1,0 +1,5 @@
+# No external dependencies required for core logic.
+# All propositional logic, resolution, and belief revision are implemented from scratch.
+#
+# Development / testing:
+pytest>=7.0
