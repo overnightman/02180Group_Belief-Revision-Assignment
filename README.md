@@ -1,6 +1,6 @@
 # Belief Revision Engine
 
-**02180 Introduction to AI — Spring 2025, DTU**
+**02180 Introduction to AI — Spring 2026, DTU**
 
 A propositional-logic belief revision engine implementing AGM revision, partial meet contraction, and resolution-based entailment — all from scratch (no SAT-solver libraries).
 
